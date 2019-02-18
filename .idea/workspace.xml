@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98fcbec7-64b9-45fc-965b-91d8fe79143c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="451">
-              <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+              <caret line="71" column="60" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -147,7 +145,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
-          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+          <caret line="71" column="60" selection-start-line="71" selection-start-column="60" selection-end-line="71" selection-end-column="60" />
         </state>
       </provider>
     </entry>
